@@ -1,0 +1,5 @@
+- 👋 Hola, I’m @Afsha05
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects
+- 📫 How to reach me gulafsha147025@gmail.com
